@@ -1,6 +1,4 @@
-# Plugin Updater for Indigo — Roadmap
-
-Nov 23, 2026 · @Aaron
+# Indigo Plugin Updater — Roadmap
 
 ## Goal and principles
 
